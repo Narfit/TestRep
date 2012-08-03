@@ -8,7 +8,7 @@ A GeoHash is a representation for a certain location on the world map. It is enc
 
 GeoHashes are easy to handle compared to the numerical latitude/longitude values. In that way they are good for data processing and storage of point data.
 
-To check the position of a hash, go to [geohash.org](geohash.org). Add the hash string to the URL (e.g. for hash r3gqm68z9gnw enter [geohash.org/r3gqm68z9gnw](geohash.org/r3gqm68z9gnw) as URL.
+To check the position of a hash, go to [http://geohash.org](http://geohash.org). Add the hash string to the URL (e.g. for hash r3gqm68z9gnw enter [http://geohash.org/r3gqm68z9gnw](http://geohash.org/r3gqm68z9gnw) as URL.
 
 A good detailled description can be found at [Wikipedia](http://en.wikipedia.org/wiki/Geohash). 
 
